@@ -1,0 +1,21 @@
+.ppertama {
+  background-color: orange;
+  font-size: 12px;
+}
+
+.pkedua {
+  color: white;
+  background-color: blue;
+  font-size: 12px;
+}
+
+.pketiga {
+  font-family: consolas;
+  border: 1px solid grey;
+}
+
+.pkeempat {
+  font-weight: bold;
+  background-color: grey;
+  border: 1px solid grey;
+}
